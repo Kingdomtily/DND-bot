@@ -1,0 +1,5 @@
+discord.py
+python-dotenv
+apscheduler.py
+pytz.py
+sqlalchemy.py
